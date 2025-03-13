@@ -15,7 +15,7 @@ Responsibilities: Team Leader and Programmer
 
 Student ID: 23098303
 
-Email: sanishssajikumar@gmail.com _(Must be replaced by .herts.ac.uk email)_
+Email: ss24afk@herts.ac.uk
 
 Responsibilities: Design Lead and Programmer
 
@@ -23,7 +23,7 @@ Responsibilities: Design Lead and Programmer
 
 Student ID: 23120173
 
-Email: talwarharpy598@gmail.com
+Email: zh24acm@herts.ac.uk
 
 Responsibilities: UI Designer and Researcher
 
