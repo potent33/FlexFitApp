@@ -3,7 +3,7 @@
 ## Project Title: FlexFit
 ### Members:
 
-**Tanveer Rajcoomar**
+##<ins>**Tanveer Rajcoomar**</ins>
 
 Student ID: 23065034
 
@@ -11,7 +11,7 @@ Email: tr24aax@herts.ac.uk
 
 Responsibilities: Team Leader and Programmer
 
-**Sanish Sheeja Sajikumar**
+##<ins>***Sanish Sheeja Sajikumar**</ins>
 
 Student ID: 23098303
 
@@ -19,7 +19,7 @@ Email: sanishssajikumar@gmail.com _(Must be replaced by .herts.ac.uk email)_
 
 Responsibilities: Design Lead and Programmer
 
-**Harpreet Talwar**
+##<ins>***Harpreet Talwar**</ins>
 
 Student ID: 23120173
 
